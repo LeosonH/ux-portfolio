@@ -1,2 +1,2 @@
-# ux-portfolio
-user experience portfolio
+# User Experience Portfolo
+Examples of material from previous UX and design work.
