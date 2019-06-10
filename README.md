@@ -1,7 +1,7 @@
 # User Experience Portfolio
 Examples of material from previous UX and design work.
 
-### Grocery Hero
+### Grocery Hero - A VR Grocery Shopping Experience for Edutainment (2016) 
 
 
-### Life360 - Apple Watch App (2015 Project)
+### Life360 - Apple Watch App Proposal (2015)
