@@ -5,4 +5,4 @@ Examples of material from previous UX and design work.
 
 ### Life360 - Apple Watch App Proposal (2015)
 
-### FasterDO - Prototype App: Group and Project Management for Students in College
+### FasterDO - Prototype App: Group and Project Management for College Students (2015)
