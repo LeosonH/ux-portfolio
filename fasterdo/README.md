@@ -1,1 +1,1 @@
-### FasterDO for IOS (2015)
+### FasterDO for iOS (2015)
