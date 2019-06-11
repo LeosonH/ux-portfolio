@@ -4,7 +4,7 @@ This design project was done as part of a project for an Interaction Design cour
 
 The Team: Jasmine Tan, Nguyen Ha, Jan Lee, Leoson Hoay
 
-**fasterDO.vp** - .vp file for the interactive prototype (created using [Justinmind](https://www.justinmind.com/)
+**fasterDO.vp** - .vp file for the interactive prototype (created using [Justinmind](https://www.justinmind.com/))
 
 **fasterDO_pitch.pdf** - Design pitch presentation for the app
 
