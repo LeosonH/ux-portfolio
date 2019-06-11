@@ -4,6 +4,8 @@ This design project was done as part of a project for an Interaction Design cour
 
 The Team: Jasmine Tan, Nguyen Ha, Jan Lee, Leoson Hoay
 
+Video: https://drive.google.com/file/d/15rEcwO11_QFQlhhzBJzTsm384-MhRPw3/view?usp=sharing
+
 ----
 
 **fasterDO.vp** - .vp file for the interactive prototype (created using [Justinmind](https://www.justinmind.com/))
