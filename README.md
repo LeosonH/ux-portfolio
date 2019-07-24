@@ -11,3 +11,6 @@ Main prototyping tools used: Adobe Illustrator
 
 ### FasterDO - Prototype App: Group and Project Management for College Students (2015)
 Main prototyping tools used: [Justinmind Prototyper](https://www.justinmind.com/), Adobe Illustrator
+
+### App Reviews (2015)
+App reviews and design analyses done in 2015 as part of an Interaction Design course.
