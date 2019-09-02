@@ -1,5 +1,5 @@
-# User Experience Portfolio
-Examples of material from previous UX and design work.
+# User Experience (Academic) Portfolio
+Examples of material from previous UX and design coursework.
 
 ----
 
